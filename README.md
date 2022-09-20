@@ -1,10 +1,13 @@
-# INFO4340 HW2
+# Color Contrast
 
 This project is a WCAG contrast checker app for desktop end.
+Users can pick up a text color and backgruond color and see a real-time sample, color ratio and WCAG grade. It helps to build better user experience of websites.
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+The project is run in a docker container.
 
 ## Customize configuration
 
